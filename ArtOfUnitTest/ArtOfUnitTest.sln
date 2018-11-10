@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAn", "LogAn\LogAn.csproj", "{8380D0E0-7248-4483-A248-7E5EF3918C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAn.UnitTests", "LogAn.UnitTests\LogAn.UnitTests.csproj", "{4E3D5F87-C415-4D71-95C4-CA8819EBD14C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8380D0E0-7248-4483-A248-7E5EF3918C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8380D0E0-7248-4483-A248-7E5EF3918C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8380D0E0-7248-4483-A248-7E5EF3918C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8380D0E0-7248-4483-A248-7E5EF3918C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3D5F87-C415-4D71-95C4-CA8819EBD14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3D5F87-C415-4D71-95C4-CA8819EBD14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3D5F87-C415-4D71-95C4-CA8819EBD14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3D5F87-C415-4D71-95C4-CA8819EBD14C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855F3B7E-E4B6-4F88-8BC3-BE51138F4BA0}
+	EndGlobalSection
+EndGlobal
